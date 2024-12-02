@@ -1,5 +1,5 @@
 @echo off
-:: Enhanced script to clear the icon cache and restart Windows Explorer
+:: Script to clear the icon cache and restart Windows Explorer
 
 :: Check for Administrator privileges
 net session >nul 2>&1
@@ -44,3 +44,4 @@ if %errorLevel% neq 0 (
 
 echo Operation completed successfully.
 pause
+exit /b
