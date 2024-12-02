@@ -20,7 +20,7 @@ The tool is useful for anyone experiencing issues like missing or incorrect icon
 ## Usage
 1. Download the repository or clone it using:
    ```sh
-   git clone https://github.com/your-username/icon-cache-refresher.git
+   git clone https://github.com/ClearanceClarence/Icon-Cache-Refresher.git
    ```
 2. Navigate to the folder containing the batch script.
 3. Right-click on `refresh_icon_cache.bat` and select **Run as administrator**.
