@@ -6,7 +6,12 @@
 Icon Cache Refresher is a batch script that helps fix issues with incorrect or corrupted desktop icons by clearing the Windows icon cache and restarting Windows Explorer.
 
 ## Overview
-This utility is designed to help users clear the Windows icon cache in order to solve issues with incorrectly displayed or corrupted icons. The script requests elevated permissions, clears the icon cache using the built-in Windows command `ie4uinit.exe`, and restarts Windows Explorer to apply the changes.
+This utility helps solve issues such as:
+- Smaller icons that get a faint white frame
+- Corrupted or incorrect icons
+- Missing desktop icons
+
+It is designed to help users clear the Windows icon cache in order to solve these common icon display issues. The script requests elevated permissions, clears the icon cache using the built-in Windows command `ie4uinit.exe`, and restarts Windows Explorer to apply the changes.
 
 The tool is useful for anyone experiencing issues like missing or incorrect icons on their Windows system, as it offers a simple, one-click solution to refresh the icon cache.
 
